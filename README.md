@@ -29,12 +29,13 @@ Wilds can be played as any number in a set or run also any color.
 
 The way to count Score:
 
-num 1-9 = 5 points each
-num 10-12 = 10 points each
-skip card = 15 points
-wild card = 25 points
+1) num 1-9 = 5 points each
+2) num 10-12 = 10 points each
+3) skip card = 15 points
+4) wild card = 25 points
 
 (only counting the card on your hand)
+<img width="471" alt="PhaseDescription" src="https://user-images.githubusercontent.com/83247047/129963376-6544106f-f3b7-4c97-a10b-eaed04427fd1.png">
 
 
 Before playing: Choose a player to be the dealer (the first name typed into the game). The dealer shuffles the deck and deals 10 cards, faced down, one at a time, to each player. Those cards can only be visible to the player themselves! After that turn the top card of the draw pile over and place it next to the draw pile, to become the discard pile.
@@ -60,10 +61,15 @@ AddPlayerNames window after clicking "PLAY":
 GameStage window after clicking "DONE":
 <img width="1440" alt="GameStage" src="https://user-images.githubusercontent.com/83247047/129962699-b15a3b3e-687f-4c49-8cba-2227c71fed03.png">
 
+PhaseDescription Window:
+<img width="471" alt="PhaseDescription" src="https://user-images.githubusercontent.com/83247047/129963415-aefbfcef-7ec0-4024-9c47-6e0ef8db1893.png">
+
+ScoreBoard window:
+<img width="997" alt="ScoreBoard" src="https://user-images.githubusercontent.com/83247047/129963451-8c32ddbe-116a-453e-8891-31e69c9558c8.png">
 
 
 
 Citation:
-https://github.com/eforbes/Phase10/tree/master/Phase10/src/phase10
-http://www.tactic.net/site/rules/FIN/03140.pdf
-https://www.instructables.com/How-to-Play-Phase-10/
+- https://github.com/eforbes/Phase10/tree/master/Phase10/src/phase10
+- http://www.tactic.net/site/rules/FIN/03140.pdf
+- https://www.instructables.com/How-to-Play-Phase-10/
